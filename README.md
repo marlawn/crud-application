@@ -8,6 +8,7 @@ Backend was created using the following:
 * MySQL
 * Java
 * Docker (for testing/troubleshooting)
+
 Frontend was made with the following:
 * JavaScript
 * React
