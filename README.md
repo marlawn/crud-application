@@ -2,7 +2,7 @@
 
 https://github.com/marlawn/crud-application/assets/93688231/8a388769-bf10-4edc-b26e-18efbbd80dd0
 
-Application that can add, edit, view, and delete users.
+Application that can add, edit, view, and delete users. Implemented React hooks and components and worked with routing using react-router-dom.
 Backend was created using the following:
 * Spring Boot
 * MySQL
@@ -13,6 +13,7 @@ Frontend was made with the following:
 * JavaScript
 * React
 * Bootstrap
+
 IDEs used:
 * Visual Studio Code
 * IntelliJ
