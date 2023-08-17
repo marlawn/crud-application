@@ -8,7 +8,7 @@ Backend was created using the following:
 * Spring Boot
 * MySQL
 * Java
-* Docker (for testing/troubleshooting)
+* Postman (for testing/troubleshooting)
 
 Frontend was made with the following:
 * JavaScript
